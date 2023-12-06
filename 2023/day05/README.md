@@ -4,7 +4,7 @@ If you noticed that there are a total 90 sub-directories in the directory '2023'
 
 All 90 directories within seconds using a simple command.
 
-` mkdir day{1..90}`
+` mkdir day{1..90}` 
 
 ### Tasks
 

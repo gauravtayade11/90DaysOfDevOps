@@ -27,5 +27,4 @@ Each of the three permissions are assigned to three defined categories of users.
 In case of any doubts, post it on [Discord Community](https://discord.gg/hs3Pmc5F)
 
 Happy Learning
-
 [← Previous Day](../day05/README.md) | [Next Day →](../day07/README.md)
